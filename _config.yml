@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Kevin Jacob"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Computer Science Student at UC San Diego"
+  location         : "Williston Park, NY"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
