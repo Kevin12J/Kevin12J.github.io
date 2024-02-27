@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kevin Jacob / Computer Science Student"
+title                    : "Kevin's Homepage"
 title_separator          : "-"
 name                     : &name "Kevin Jacob"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "Kevin12J/Kevin12J.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Kevin Jacob"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
